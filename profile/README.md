@@ -36,7 +36,7 @@
 
 <br/>    
 
-### :high_brightness:Melody는 이런걸 써:high_brightness:
+### :high_brightness:Melody는 이런걸 써요:high_brightness:
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
