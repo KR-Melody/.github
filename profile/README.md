@@ -9,7 +9,7 @@
 <div align="Center">
 <p align='Center'>
 
-### :high_brightness:HOW TO CONTACT ME:high_brightness:
+### :high_brightness:HOW TO CONTACT US:high_brightness:
 
 <a href="mailto:norhu1130@naver.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
